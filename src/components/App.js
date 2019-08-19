@@ -1,6 +1,6 @@
 import React from 'react';
+import NoteForm from './NoteForm';
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return <NoteForm />;
 }
-  
